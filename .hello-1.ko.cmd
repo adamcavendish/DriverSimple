@@ -1,1 +1,0 @@
-cmd_/files/Nutstore/000/CPPWorkSpace/130924DriverSimple/hello-1.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-40-generic/scripts/module-common.lds --build-id  -o /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/hello-1.ko /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/hello-1.o /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/hello-1.mod.o

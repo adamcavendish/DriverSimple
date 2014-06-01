@@ -34,9 +34,6 @@ void cleanup_module(void)
 {
 	// unregister the device
 	unregister_chrdev(Major, DEVICE_NAME);
-
-//	if(ret < 0)
-//		printk(KERN_ALERT "Error in unregister_chrdev: %d\n", ret);
 }//cleanup_module()
 
 // called when a process tries to open the device file, like "cat /dev/mycharfile"
