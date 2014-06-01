@@ -1,1 +1,0 @@
-cmd_/files/Nutstore/000/CPPWorkSpace/130924DriverSimple/006/006.o := ld -m elf_x86_64   -r -o /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/006/006.o /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/006/start.o /files/Nutstore/000/CPPWorkSpace/130924DriverSimple/006/stop.o 
